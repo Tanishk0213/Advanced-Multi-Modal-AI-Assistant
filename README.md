@@ -14,3 +14,26 @@ AI_Chatbot_Project/
 ├── faiss_index/ (Vector Store)
 ├── knowledge_sources/ (Extra Updates)
 └── README.md (Project Guide)
+
+# Advanced AI Chatbot
+
+## Features
+- Dynamic Knowledge Base
+- Medical Q&A Chatbot
+- Research Paper Assistant
+- Multi-modal Image Chat
+- Sentiment Analysis
+- Multi-language Support
+
+## Technologies Used
+- Gemini AI
+- FAISS
+- Sentence Transformers
+- Streamlit
+- LangChain
+
+## Run Project
+
+pip install -r requirements.txt
+
+streamlit run app.py
